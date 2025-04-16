@@ -1,0 +1,7 @@
+# List of subreddits to download media from (one per line)
+# Lines starting with # are comments and will be ignored
+Whatcouldgowrong
+memes
+funny
+EarthPorn
+HistoryPorn 
